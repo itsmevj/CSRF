@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+body {
+    background-image: url("background.jpg");
+    background-position: 100%;
+}
+.center {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding:200px;
+  width: 30%;
+}
+h1 {
+    color: white;
+    text-align: center;
+  text-transform: uppercase;
+   text-shadow: 3px 2px lime;
+  color: blue;
+}
+.col-25 {
+  float: left;
+  width: 60%;
+  margin-top: 6px;
+}
+
+.col-75 {
+  float: left;
+  width: 8%;
+  margin-top: 6px;
+}

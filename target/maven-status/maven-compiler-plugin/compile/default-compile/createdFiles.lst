@@ -1,0 +1,4 @@
+com\example\CSRF\action\LoginAction.class
+com\example\CSRF\form\LoginForm.class
+com\example\CSRF\form\TransactionForm.class
+com\example\CSRF\action\TransactionAction.class
